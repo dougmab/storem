@@ -1,6 +1,8 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/user/storem-client
+	branch = development
 [submodule "server"]
 	path = server
 	url = https://github.com/user/storem-api
+	branch = development
